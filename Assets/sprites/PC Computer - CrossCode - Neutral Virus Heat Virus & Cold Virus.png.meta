@@ -1,0 +1,2408 @@
+fileFormatVersion: 2
+guid: 5b7c930aa110e4d429e16f0f96ceaa2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2593443940028840511
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_0
+  - first:
+      213: -7807060644192446067
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_1
+  - first:
+      213: 8412203520902540829
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_2
+  - first:
+      213: -1031447338720066061
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_3
+  - first:
+      213: -8275123183853333252
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_4
+  - first:
+      213: -2705761390058232139
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_5
+  - first:
+      213: -8465122687520235487
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_6
+  - first:
+      213: 8736350350824695885
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_7
+  - first:
+      213: 7695990854708534764
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_8
+  - first:
+      213: -1016766260689291681
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_9
+  - first:
+      213: 8125613720859592927
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_10
+  - first:
+      213: -5146782614887478250
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_11
+  - first:
+      213: 4172484766522353388
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_12
+  - first:
+      213: -9012644530142784514
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_13
+  - first:
+      213: -789410536279786118
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_14
+  - first:
+      213: -3919454976897417315
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_15
+  - first:
+      213: 4340615285243656908
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_16
+  - first:
+      213: -4821310185945906855
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_17
+  - first:
+      213: 6089962923976100277
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_18
+  - first:
+      213: -2210947500301704188
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_19
+  - first:
+      213: -9052908329840388143
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_20
+  - first:
+      213: -5037670196575300537
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_21
+  - first:
+      213: -4334123243530436043
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_22
+  - first:
+      213: -320786460994598333
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_23
+  - first:
+      213: -3591315651312346107
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_24
+  - first:
+      213: -7474147616288686160
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_25
+  - first:
+      213: -8269584716473202205
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_26
+  - first:
+      213: -7787110585278769968
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_27
+  - first:
+      213: -2537138419495972396
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_28
+  - first:
+      213: -8216859410356646591
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_29
+  - first:
+      213: 229819467416163590
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_30
+  - first:
+      213: -877099652335694225
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_31
+  - first:
+      213: 1500383679421773844
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_32
+  - first:
+      213: 8663236877789780147
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_33
+  - first:
+      213: 1485543232521560264
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_34
+  - first:
+      213: -8336826671239952439
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_35
+  - first:
+      213: -8874412256863344672
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_36
+  - first:
+      213: 8455335217084341369
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_37
+  - first:
+      213: 528895494946909117
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_38
+  - first:
+      213: -1396954918214608128
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_39
+  - first:
+      213: -5657473266311092584
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_40
+  - first:
+      213: 8104124253337904766
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_41
+  - first:
+      213: -6323121296668766149
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_42
+  - first:
+      213: -8441477385877155304
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_43
+  - first:
+      213: 3382688053278300653
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_44
+  - first:
+      213: 1638768247408817794
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_45
+  - first:
+      213: -2530088565780204883
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_46
+  - first:
+      213: -7324415112670845259
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_47
+  - first:
+      213: 4807357811661006780
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_48
+  - first:
+      213: -5916355601787545089
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_49
+  - first:
+      213: 7095069370135507423
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_50
+  - first:
+      213: 8312863859110156098
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_51
+  - first:
+      213: 97441066284234771
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_52
+  - first:
+      213: 4225868382797230190
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_53
+  - first:
+      213: -4324924773517844359
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_54
+  - first:
+      213: 4161767485392424537
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_55
+  - first:
+      213: -1536373488919849185
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_56
+  - first:
+      213: 9075559923057337797
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_57
+  - first:
+      213: -4615583062895985814
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_58
+  - first:
+      213: -1760242257068730431
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_59
+  - first:
+      213: -8509080892308674362
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_60
+  - first:
+      213: -2985901703470284440
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_61
+  - first:
+      213: 6717389801096504772
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_62
+  - first:
+      213: -2380891924054368691
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_63
+  - first:
+      213: 6790180945891405302
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_64
+  - first:
+      213: 7458985973135413335
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_65
+  - first:
+      213: 2468827148505442852
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_66
+  - first:
+      213: -3309066723054395477
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_67
+  - first:
+      213: 6408216000211212083
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_68
+  - first:
+      213: 1781692673533627965
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_69
+  - first:
+      213: -3818840355382306056
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_70
+  - first:
+      213: 6026778470011976893
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_71
+  - first:
+      213: 1045149385601518405
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_72
+  - first:
+      213: -1865313538845956302
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_73
+  - first:
+      213: 2277715057763725555
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_74
+  - first:
+      213: 411589671239872478
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_75
+  - first:
+      213: 2320962985587841665
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_76
+  - first:
+      213: 6417619348336617640
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_77
+  - first:
+      213: -5778338035015944441
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_78
+  - first:
+      213: 551014728447762537
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_79
+  - first:
+      213: 3278348865371860121
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_80
+  - first:
+      213: 2715747661078460446
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_81
+  - first:
+      213: -2950304123034089576
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_82
+  - first:
+      213: -6267225337524264084
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_83
+  - first:
+      213: -3257561424446527773
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_84
+  - first:
+      213: 6554757430063474269
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_85
+  - first:
+      213: 9164616165587578866
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_86
+  - first:
+      213: -2215982245410199011
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_87
+  - first:
+      213: 2523251805213320689
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_88
+  - first:
+      213: -3692371856521326338
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_89
+  - first:
+      213: 2038674355661326754
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_90
+  - first:
+      213: -1968022434239301532
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_91
+  - first:
+      213: 2911920377559952397
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_92
+  - first:
+      213: 767989910234506030
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_93
+  - first:
+      213: -3721275373223631249
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_94
+  - first:
+      213: -4228497167448100701
+    second: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 482
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c501b92a7c320cd0800000000000000
+      internalID: -2593443940028840511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 482
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d891afa25bfb7a390800000000000000
+      internalID: -7807060644192446067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 482
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eafa158862eb470800000000000000
+      internalID: 8412203520902540829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 482
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5811b3c109fa1f0800000000000000
+      internalID: -1031447338720066061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 482
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf492d9ce4bd82d80800000000000000
+      internalID: -8275123183853333252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 484
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6ac9af954337ad0800000000000000
+      internalID: -2705761390058232139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 482
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120a14e04c7d58a80800000000000000
+      internalID: -8465122687520235487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 483
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48e34e5b50cd3970800000000000000
+      internalID: 8736350350824695885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 450
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced9e8148e6adca60800000000000000
+      internalID: 7695990854708534764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 448
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5633041978b3e1f0800000000000000
+      internalID: -1016766260689291681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 450
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd840e5b0aaf3c070800000000000000
+      internalID: 8125613720859592927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 448
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cc9770b74f298b0800000000000000
+      internalID: -5146782614887478250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 450
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce62b43d9c4a7e930800000000000000
+      internalID: 4172484766522353388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_13
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 450
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3d8f50d87ace280800000000000000
+      internalID: -9012644530142784514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 454
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7db71bbc437b05f0800000000000000
+      internalID: -789410536279786118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_15
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 450
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f74e4f67c4b99c0800000000000000
+      internalID: -3919454976897417315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 418
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca3497ba96fc3c30800000000000000
+      internalID: 4340615285243656908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 418
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951c8b62ee3471db0800000000000000
+      internalID: -4821310185945906855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 417
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b905ea6305e38450800000000000000
+      internalID: 6089962923976100277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 417
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404aa7b66f22151e0800000000000000
+      internalID: -2210947500301704188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 418
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d750bf96db9d5280800000000000000
+      internalID: -9052908329840388143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 418
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7449e8d95a9961ab0800000000000000
+      internalID: -5037670196575300537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 419
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532ca988fd91ad3c0800000000000000
+      internalID: -4334123243530436043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 420
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a89afc9665c8bf0800000000000000
+      internalID: -320786460994598333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 386
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c1a375175192ec0800000000000000
+      internalID: -3591315651312346107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 384
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfb74cb75e764890800000000000000
+      internalID: -7474147616288686160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 386
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e98d96b3888c3d80800000000000000
+      internalID: -8269584716473202205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 384
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d456c93e20aee390800000000000000
+      internalID: -7787110585278769968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 386
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d152ffbc064accd0800000000000000
+      internalID: -2537138419495972396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_29
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 386
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dcd5ca6e9d7fd80800000000000000
+      internalID: -8216859410356646591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 389
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6055fc5869b703300800000000000000
+      internalID: 229819467416163590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_31
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 385
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e89e5638ae3d3f0800000000000000
+      internalID: -877099652335694225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 356
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4187abec10f62d410800000000000000
+      internalID: 1500383679421773844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 322
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b859b16a000a3870800000000000000
+      internalID: 8663236877789780147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_34
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 322
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0eee003b5bd9410800000000000000
+      internalID: 1485543232521560264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 322
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c78dba1054ad4c80800000000000000
+      internalID: -8336826671239952439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_36
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 322
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a94f2211c7d480800000000000000
+      internalID: -8874412256863344672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 322
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c9927e492675570800000000000000
+      internalID: 8455335217084341369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 324
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb6d9386a3075700800000000000000
+      internalID: 528895494946909117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 322
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b559c37e40d9ce0800000000000000
+      internalID: -1396954918214608128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_40
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 323
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8962243f90e9c71b0800000000000000
+      internalID: -5657473266311092584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 290
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7665d72212a77070800000000000000
+      internalID: 8104124253337904766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_42
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 288
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30d9589ea2cf38a0800000000000000
+      internalID: -6323121296668766149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_43
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 290
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8129c4bda09d9da80800000000000000
+      internalID: -8441477385877155304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_44
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 288
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de95c99bcd8b1fe20800000000000000
+      internalID: 3382688053278300653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 290
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286fdf7d9031eb610800000000000000
+      internalID: 1638768247408817794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_46
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 290
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2b46abad153ecd0800000000000000
+      internalID: -2530088565780204883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_47
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 294
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b660cde2437a5a90800000000000000
+      internalID: -7324415112670845259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 290
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7e040957a27b240800000000000000
+      internalID: 4807357811661006780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 258
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff99f862de1e4eda0800000000000000
+      internalID: -5916355601787545089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_50
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 258
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd17ea73000c67260800000000000000
+      internalID: 7095069370135507423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 257
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247917ce2a93d5370800000000000000
+      internalID: 8312863859110156098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_52
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 257
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318386e222e2a5100800000000000000
+      internalID: 97441066284234771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_53
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 258
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60fe2097ec45aa30800000000000000
+      internalID: 4225868382797230190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_54
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 258
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970ae2a35d7caf3c0800000000000000
+      internalID: -4324924773517844359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 259
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e069c5a7191c930800000000000000
+      internalID: 4161767485392424537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_56
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 260
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17da9ea374bdaae0800000000000000
+      internalID: -1536373488919849185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_57
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 226
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5aa976aadd2fd70800000000000000
+      internalID: 9075559923057337797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_58
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 194
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b76c0a8a722ffb0800000000000000
+      internalID: -4615583062895985814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_59
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 226
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c759cc4efc5297e0800000000000000
+      internalID: -1760242257068730431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_60
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 224
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8a0e0f20ca9e980800000000000000
+      internalID: -8509080892308674362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_61
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 226
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8618b6e7832ff86d0800000000000000
+      internalID: -2985901703470284440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_62
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 226
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c560301f66f83d50800000000000000
+      internalID: 6717389801096504772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 229
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e942ad86f55fed0800000000000000
+      internalID: -2380891924054368691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_64
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 225
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdab7828919b3e50800000000000000
+      internalID: 6790180945891405302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 194
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7509b512934a38760800000000000000
+      internalID: 7458985973135413335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_66
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 194
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ae18e0639034220800000000000000
+      internalID: 2468827148505442852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_67
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 194
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafd64af855d312d0800000000000000
+      internalID: -3309066723054395477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 194
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3375090008e8ee850800000000000000
+      internalID: 6408216000211212083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_69
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 196
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e43e8fb08d9b810800000000000000
+      internalID: 1781692673533627965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_70
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 194
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fad28b0ee0c00bc0800000000000000
+      internalID: -3818840355382306056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_71
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 195
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc3905561b63a350800000000000000
+      internalID: 6026778470011976893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 162
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b0ff924dd118e00800000000000000
+      internalID: 1045149385601518405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_73
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 160
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2372c5228331d16e0800000000000000
+      internalID: -1865313538845956302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_74
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 162
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0b095f6c11c9f10800000000000000
+      internalID: 2277715057763725555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_75
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 160
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfe87310a246b500800000000000000
+      internalID: 411589671239872478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_76
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 162
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a1bc4d987b53020800000000000000
+      internalID: 2320962985587841665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_77
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 162
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a827499bc6ff0950800000000000000
+      internalID: 6417619348336617640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_78
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 166
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707febe0c283fcfa0800000000000000
+      internalID: -5778338035015944441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_79
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 162
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9602323e9f895a700800000000000000
+      internalID: 551014728447762537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 130
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c6b427ce80f7d20800000000000000
+      internalID: 3278348865371860121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_81
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 130
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18fd2eeb1640b520800000000000000
+      internalID: 2715747661078460446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_82
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 129
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897ce2f080a6e07d0800000000000000
+      internalID: -2950304123034089576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_83
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 129
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63e98db2c75609a0800000000000000
+      internalID: -6267225337524264084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_84
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 130
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e669ddc421dac2d0800000000000000
+      internalID: -3257561424446527773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_85
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 130
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5629cf672d27fa50800000000000000
+      internalID: 6554757430063474269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 131
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff66aca8d14f2f70800000000000000
+      internalID: 9164616165587578866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 132
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aa0c973ef3f31e0800000000000000
+      internalID: -2215982245410199011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_88
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 98
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f56a98e524640320800000000000000
+      internalID: 2523251805213320689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_89
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 96
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef095690c5f02ccc0800000000000000
+      internalID: -3692371856521326338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_90
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 98
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a944ed6683da4c10800000000000000
+      internalID: 2038674355661326754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_91
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 96
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468ba29e50e20b4e0800000000000000
+      internalID: -1968022434239301532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_92
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 98
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0caea6c728396820800000000000000
+      internalID: 2911920377559952397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_93
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 98
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23ac9e11c278aa00800000000000000
+      internalID: 767989910234506030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_94
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 101
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66a893a3cf5b5cc0800000000000000
+      internalID: -3721275373223631249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Neutral Virus Heat Virus & Cold Virus_95
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 97
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0b280da3c5155c0800000000000000
+      internalID: -4228497167448100701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

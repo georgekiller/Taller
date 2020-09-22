@@ -1,0 +1,5600 @@
+fileFormatVersion: 2
+guid: 62d69a26bffea1d4d9862d99ed6812fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8841229911338251330
+    second: conteo_0
+  - first:
+      213: -4594007491876584442
+    second: conteo_1
+  - first:
+      213: -8898883912730799130
+    second: conteo_2
+  - first:
+      213: 3457331062768935635
+    second: conteo_3
+  - first:
+      213: -6280309134549287010
+    second: conteo_4
+  - first:
+      213: -6866208590477285911
+    second: conteo_5
+  - first:
+      213: 6214073760402865694
+    second: conteo_6
+  - first:
+      213: -2258536682881653331
+    second: conteo_7
+  - first:
+      213: -7786316306142468927
+    second: conteo_8
+  - first:
+      213: 6125827125739009220
+    second: conteo_9
+  - first:
+      213: -4452141519551817100
+    second: conteo_10
+  - first:
+      213: 7917905182670481089
+    second: conteo_11
+  - first:
+      213: -5441864159575335625
+    second: conteo_12
+  - first:
+      213: 1427710224188820393
+    second: conteo_13
+  - first:
+      213: -5309092653786229806
+    second: conteo_14
+  - first:
+      213: 4709156098543895533
+    second: conteo_15
+  - first:
+      213: 4447707115299875825
+    second: conteo_16
+  - first:
+      213: 7892799867331991913
+    second: conteo_17
+  - first:
+      213: 1618026034432414186
+    second: conteo_18
+  - first:
+      213: 4310301684017985590
+    second: conteo_19
+  - first:
+      213: 2777335439930742535
+    second: conteo_20
+  - first:
+      213: -9155556875935698082
+    second: conteo_21
+  - first:
+      213: 1207288078736260139
+    second: conteo_22
+  - first:
+      213: 6021651765395869836
+    second: conteo_23
+  - first:
+      213: 4834996070780849580
+    second: conteo_24
+  - first:
+      213: 6547793110532279128
+    second: conteo_25
+  - first:
+      213: -7731523145565751992
+    second: conteo_26
+  - first:
+      213: 2532065457657871609
+    second: conteo_27
+  - first:
+      213: -1951041284094871349
+    second: conteo_28
+  - first:
+      213: -1306403254442929408
+    second: conteo_29
+  - first:
+      213: -324490410081764446
+    second: conteo_30
+  - first:
+      213: -7245992738951428543
+    second: conteo_31
+  - first:
+      213: 2870813528651168055
+    second: conteo_32
+  - first:
+      213: 6677842446079420218
+    second: conteo_33
+  - first:
+      213: 2004314695576108352
+    second: conteo_34
+  - first:
+      213: -6841873084403275822
+    second: conteo_35
+  - first:
+      213: -7158649777284181459
+    second: conteo_36
+  - first:
+      213: -8998857511842432321
+    second: conteo_37
+  - first:
+      213: 3231384191723984068
+    second: conteo_38
+  - first:
+      213: -1563185894227304370
+    second: conteo_39
+  - first:
+      213: 8456830423753983241
+    second: conteo_40
+  - first:
+      213: 2683627425914199877
+    second: conteo_41
+  - first:
+      213: -9024742220836819247
+    second: conteo_42
+  - first:
+      213: 6114645723327593817
+    second: conteo_43
+  - first:
+      213: 4926719857432808172
+    second: conteo_44
+  - first:
+      213: -2402903497698985299
+    second: conteo_45
+  - first:
+      213: -708168073373472825
+    second: conteo_46
+  - first:
+      213: -461980267311320751
+    second: conteo_47
+  - first:
+      213: 4064743112779827785
+    second: conteo_48
+  - first:
+      213: 2029136526636977868
+    second: conteo_49
+  - first:
+      213: -6426966786724540277
+    second: conteo_50
+  - first:
+      213: -5989283120099539793
+    second: conteo_51
+  - first:
+      213: -5413173283893371709
+    second: conteo_52
+  - first:
+      213: -5302211721496393405
+    second: conteo_53
+  - first:
+      213: -4522810350920686587
+    second: conteo_54
+  - first:
+      213: 781173692966138686
+    second: conteo_55
+  - first:
+      213: 4170553361788889387
+    second: conteo_56
+  - first:
+      213: -6914034666738306985
+    second: conteo_57
+  - first:
+      213: -4214010662675036116
+    second: conteo_58
+  - first:
+      213: -305712985944653725
+    second: conteo_59
+  - first:
+      213: 1936475589457980058
+    second: conteo_60
+  - first:
+      213: 8846888446738903731
+    second: conteo_61
+  - first:
+      213: 4938724427241839224
+    second: conteo_62
+  - first:
+      213: 3317941529380194584
+    second: conteo_63
+  - first:
+      213: -8375988017912029818
+    second: conteo_64
+  - first:
+      213: 814591305912171725
+    second: conteo_65
+  - first:
+      213: 5274852434723835835
+    second: conteo_66
+  - first:
+      213: 8896530294519120855
+    second: conteo_67
+  - first:
+      213: 5916106714496018877
+    second: conteo_68
+  - first:
+      213: 727717106019446281
+    second: conteo_69
+  - first:
+      213: -2227859732265906125
+    second: conteo_70
+  - first:
+      213: 2598667343361053432
+    second: conteo_71
+  - first:
+      213: 6374345422371849284
+    second: conteo_72
+  - first:
+      213: -2122234635106140113
+    second: conteo_73
+  - first:
+      213: 7419963143394563874
+    second: conteo_74
+  - first:
+      213: -6840373513023899403
+    second: conteo_75
+  - first:
+      213: 2405380330703047691
+    second: conteo_76
+  - first:
+      213: 381173692069231589
+    second: conteo_77
+  - first:
+      213: 121622523701444664
+    second: conteo_78
+  - first:
+      213: 6857919705531202220
+    second: conteo_79
+  - first:
+      213: 8408633830916753532
+    second: conteo_80
+  - first:
+      213: 4708450322907898525
+    second: conteo_81
+  - first:
+      213: -327700931929290721
+    second: conteo_82
+  - first:
+      213: 7736227781544769399
+    second: conteo_83
+  - first:
+      213: -4434013017163448334
+    second: conteo_84
+  - first:
+      213: 178170296884612978
+    second: conteo_85
+  - first:
+      213: 7806724661848340379
+    second: conteo_86
+  - first:
+      213: -5887514896001231581
+    second: conteo_87
+  - first:
+      213: 1246946590218552008
+    second: conteo_88
+  - first:
+      213: 67397149111604426
+    second: conteo_89
+  - first:
+      213: 5928858662400694289
+    second: conteo_90
+  - first:
+      213: -7122238359429480165
+    second: conteo_91
+  - first:
+      213: 4125117232578487344
+    second: conteo_92
+  - first:
+      213: 6122854125836672915
+    second: conteo_93
+  - first:
+      213: 7833048183280770894
+    second: conteo_94
+  - first:
+      213: 280340879444660433
+    second: conteo_95
+  - first:
+      213: -7180813337451187918
+    second: conteo_96
+  - first:
+      213: -4344221047476161756
+    second: conteo_97
+  - first:
+      213: 8906125999323347830
+    second: conteo_98
+  - first:
+      213: -495085444153654104
+    second: conteo_99
+  - first:
+      213: -2147779458429491508
+    second: conteo_100
+  - first:
+      213: -8849321895601072444
+    second: conteo_101
+  - first:
+      213: 5667499669633633487
+    second: conteo_102
+  - first:
+      213: 5723371795007059199
+    second: conteo_103
+  - first:
+      213: 6006689938220175530
+    second: conteo_104
+  - first:
+      213: -6136311389560921600
+    second: conteo_105
+  - first:
+      213: -2633949895670273062
+    second: conteo_106
+  - first:
+      213: -362980766121778134
+    second: conteo_107
+  - first:
+      213: 7444597554323781640
+    second: conteo_108
+  - first:
+      213: 2253536471716039288
+    second: conteo_109
+  - first:
+      213: 7052266902060210303
+    second: conteo_110
+  - first:
+      213: 1830611466423010283
+    second: conteo_111
+  - first:
+      213: 8646099186996537717
+    second: conteo_112
+  - first:
+      213: 2678441936816301280
+    second: conteo_113
+  - first:
+      213: 7670980873068331709
+    second: conteo_114
+  - first:
+      213: -5355016051594344770
+    second: conteo_115
+  - first:
+      213: -5185377665567338453
+    second: conteo_116
+  - first:
+      213: 3623468388400782341
+    second: conteo_117
+  - first:
+      213: 3084240610737188878
+    second: conteo_118
+  - first:
+      213: 3038501304569447343
+    second: conteo_119
+  - first:
+      213: -6550079429351720782
+    second: conteo_120
+  - first:
+      213: -3206851848396572026
+    second: conteo_121
+  - first:
+      213: -3675797497834964213
+    second: conteo_122
+  - first:
+      213: 7830526575792722569
+    second: conteo_123
+  - first:
+      213: -2166026086546403272
+    second: conteo_124
+  - first:
+      213: -5830765943428629515
+    second: conteo_125
+  - first:
+      213: -4494968677147698724
+    second: conteo_126
+  - first:
+      213: -2650481180205912285
+    second: conteo_127
+  - first:
+      213: -4272821008136161821
+    second: conteo_128
+  - first:
+      213: -9187790764315314914
+    second: conteo_129
+  - first:
+      213: -1529949006009726757
+    second: conteo_130
+  - first:
+      213: -9176298842699629381
+    second: conteo_131
+  - first:
+      213: -5352347811119403438
+    second: conteo_132
+  - first:
+      213: -2738168756197041808
+    second: conteo_133
+  - first:
+      213: -2415426160001947561
+    second: conteo_134
+  - first:
+      213: 5570145340130502009
+    second: conteo_135
+  - first:
+      213: -1320747635807518932
+    second: conteo_136
+  - first:
+      213: 5913055065249449288
+    second: conteo_137
+  - first:
+      213: 7489177952642679695
+    second: conteo_138
+  - first:
+      213: -4876271196065772221
+    second: conteo_139
+  - first:
+      213: 5990871731061148163
+    second: conteo_140
+  - first:
+      213: 1454373835718073210
+    second: conteo_141
+  - first:
+      213: 7325407956962413239
+    second: conteo_142
+  - first:
+      213: -8733482206762146024
+    second: conteo_143
+  - first:
+      213: -5400340580530319010
+    second: conteo_144
+  - first:
+      213: 5507760617413826927
+    second: conteo_145
+  - first:
+      213: -8563756891365943450
+    second: conteo_146
+  - first:
+      213: 4690835296217307675
+    second: conteo_147
+  - first:
+      213: 5296889082086775041
+    second: conteo_148
+  - first:
+      213: -853154797357816174
+    second: conteo_149
+  - first:
+      213: -1124689642292855594
+    second: conteo_150
+  - first:
+      213: 2244004061621875765
+    second: conteo_151
+  - first:
+      213: 4084431355594884146
+    second: conteo_152
+  - first:
+      213: -4156851792139411141
+    second: conteo_153
+  - first:
+      213: 4640074871037540937
+    second: conteo_154
+  - first:
+      213: -1068501989374221624
+    second: conteo_155
+  - first:
+      213: 5422501130992911529
+    second: conteo_156
+  - first:
+      213: 493814236893962442
+    second: conteo_157
+  - first:
+      213: 2085333646834310223
+    second: conteo_158
+  - first:
+      213: -380387405273694869
+    second: conteo_159
+  - first:
+      213: -6861187216499060959
+    second: conteo_160
+  - first:
+      213: -5905146208176507172
+    second: conteo_161
+  - first:
+      213: -170211902956439378
+    second: conteo_162
+  - first:
+      213: 5855827544403828936
+    second: conteo_163
+  - first:
+      213: -8903652674176545124
+    second: conteo_164
+  - first:
+      213: 232221645007379628
+    second: conteo_165
+  - first:
+      213: 9040229093526881955
+    second: conteo_166
+  - first:
+      213: 3145654654089810066
+    second: conteo_167
+  - first:
+      213: 2992181321642995973
+    second: conteo_168
+  - first:
+      213: 7650983152322676050
+    second: conteo_169
+  - first:
+      213: 8070871198680829769
+    second: conteo_170
+  - first:
+      213: -7363879135831364708
+    second: conteo_171
+  - first:
+      213: 1718515842931279708
+    second: conteo_172
+  - first:
+      213: 2909508347415749494
+    second: conteo_173
+  - first:
+      213: -300544168820231322
+    second: conteo_174
+  - first:
+      213: -7909705968787902689
+    second: conteo_175
+  - first:
+      213: 6416971045555625468
+    second: conteo_176
+  - first:
+      213: -1308839242431704041
+    second: conteo_177
+  - first:
+      213: 4094633909519855682
+    second: conteo_178
+  - first:
+      213: -5774232594937907687
+    second: conteo_179
+  - first:
+      213: -730731811970529714
+    second: conteo_180
+  - first:
+      213: -2287577980893674978
+    second: conteo_181
+  - first:
+      213: -104186037669225513
+    second: conteo_182
+  - first:
+      213: 6702796401072829237
+    second: conteo_183
+  - first:
+      213: -5353995881239268579
+    second: conteo_184
+  - first:
+      213: -215012780032767896
+    second: conteo_185
+  - first:
+      213: 9030159659400793975
+    second: conteo_186
+  - first:
+      213: -6351389792981612657
+    second: conteo_187
+  - first:
+      213: -1093850596632973030
+    second: conteo_188
+  - first:
+      213: -2667333879149639795
+    second: conteo_189
+  - first:
+      213: -2285744744462935358
+    second: conteo_190
+  - first:
+      213: 2673770506957523977
+    second: conteo_191
+  - first:
+      213: 4704419924767551749
+    second: conteo_192
+  - first:
+      213: -7585332984894345637
+    second: conteo_193
+  - first:
+      213: 1080926010999672702
+    second: conteo_194
+  - first:
+      213: -6885657151706629957
+    second: conteo_195
+  - first:
+      213: -3452937581188208854
+    second: conteo_196
+  - first:
+      213: 5268160971457764878
+    second: conteo_197
+  - first:
+      213: 6319331305354107710
+    second: conteo_198
+  - first:
+      213: -3076458378846096764
+    second: conteo_199
+  - first:
+      213: 4539598264730391069
+    second: conteo_200
+  - first:
+      213: -8365078979881399884
+    second: conteo_201
+  - first:
+      213: 2896931233680658453
+    second: conteo_202
+  - first:
+      213: 8785928810287394996
+    second: conteo_203
+  - first:
+      213: -2983454649422642501
+    second: conteo_204
+  - first:
+      213: -7700722829417691467
+    second: conteo_205
+  - first:
+      213: -912547429352517064
+    second: conteo_206
+  - first:
+      213: 6188519625891127380
+    second: conteo_207
+  - first:
+      213: 225833941451628746
+    second: conteo_208
+  - first:
+      213: 6493559821484484384
+    second: conteo_209
+  - first:
+      213: -4663062203761761048
+    second: conteo_210
+  - first:
+      213: 4092338429759058949
+    second: conteo_211
+  - first:
+      213: -3005228402891175522
+    second: conteo_212
+  - first:
+      213: 9188199867481659477
+    second: conteo_213
+  - first:
+      213: -5256349932848832966
+    second: conteo_214
+  - first:
+      213: -5002384739524932443
+    second: conteo_215
+  - first:
+      213: 5569039929205478631
+    second: conteo_216
+  - first:
+      213: -2751541339609398800
+    second: conteo_217
+  - first:
+      213: -5752808467531170081
+    second: conteo_218
+  - first:
+      213: 975350710021100226
+    second: conteo_219
+  - first:
+      213: 6385425779230414762
+    second: conteo_220
+  - first:
+      213: 6012841334516474080
+    second: conteo_221
+  - first:
+      213: -7916567227915403208
+    second: conteo_222
+  - first:
+      213: -1206020522668352101
+    second: conteo_223
+  - first:
+      213: 6776552092689519915
+    second: conteo_224
+  - first:
+      213: -7297318429336448616
+    second: conteo_225
+  - first:
+      213: -8632826195951403843
+    second: conteo_226
+  - first:
+      213: 1534041368836247339
+    second: conteo_227
+  - first:
+      213: 8502729034903168372
+    second: conteo_228
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: conteo_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb002d0d34ad4580800000000000000
+      internalID: -8841229911338251330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6048637b68ece30c0800000000000000
+      internalID: -4594007491876584442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e31e3cca30d08480800000000000000
+      internalID: -8898883912730799130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2244ba848eaff20800000000000000
+      internalID: 3457331062768935635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f7c8bdd1cd7d8a0800000000000000
+      internalID: -6280309134549287010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5adda6aa356b0a0800000000000000
+      internalID: -6866208590477285911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e73e85923dc3650800000000000000
+      internalID: 6214073760402865694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da566a86ad018a0e0800000000000000
+      internalID: -2258536682881653331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4eb8fb29271f390800000000000000
+      internalID: -7786316306142468927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c43029905f430550800000000000000
+      internalID: 6125827125739009220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a985d50e0d632c0800000000000000
+      internalID: -4452141519551817100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c66c4210dc02ed60800000000000000
+      internalID: 7917905182670481089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d159c016d9a74b0800000000000000
+      internalID: -5441864159575335625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abc7f272ee30d310800000000000000
+      internalID: 1427710224188820393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d39f633c505256b0800000000000000
+      internalID: -5309092653786229806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3c29d75884a5140800000000000000
+      internalID: 4709156098543895533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb2d607e0e69bd30800000000000000
+      internalID: 4447707115299875825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969d29759abd88d60800000000000000
+      internalID: 7892799867331991913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae19dab0b12647610800000000000000
+      internalID: 1618026034432414186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638f8ae6b8441db30800000000000000
+      internalID: 4310301684017985590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_20
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707dc2f1ed31b8620800000000000000
+      internalID: 2777335439930742535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53b7f0978de0f080800000000000000
+      internalID: -9155556875935698082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c73a27c1621c010800000000000000
+      internalID: 1207288078736260139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_23
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8056856064319350800000000000000
+      internalID: 6021651765395869836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_24
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad4d493f4b591340800000000000000
+      internalID: 4834996070780849580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bc600742f6eda50800000000000000
+      internalID: 6547793110532279128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_26
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 174
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845b7d799ac14b490800000000000000
+      internalID: -7731523145565751992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcfbb74e14b32320800000000000000
+      internalID: 2532065457657871609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 157
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc837670a428ce4e0800000000000000
+      internalID: -1951041284094871349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003d3856929bedde0800000000000000
+      internalID: -1306403254442929408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab3e06f0bd2f7bf0800000000000000
+      internalID: -324490410081764446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1468dbdaeff017b90800000000000000
+      internalID: -7245992738951428543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73973afa1bd27d720800000000000000
+      internalID: 2870813528651168055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_33
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37e690f2567cac50800000000000000
+      internalID: 6677842446079420218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04db8e7a891c0db10800000000000000
+      internalID: 2004314695576108352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d726d5fda8cc01a0800000000000000
+      internalID: -6841873084403275822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_36
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d221c89a4fd57ac90800000000000000
+      internalID: -7158649777284181459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbab64e55c2ad1380800000000000000
+      internalID: -8998857511842432321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c455804dce28dc20800000000000000
+      internalID: 3231384191723984068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e402ea816b27e4ae0800000000000000
+      internalID: -1563185894227304370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_40
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9058295d672bc5570800000000000000
+      internalID: 8456830423753983241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f9c17ece82e3520800000000000000
+      internalID: 2683627425914199877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de2d89e3cca1c280800000000000000
+      internalID: -9024742220836819247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d7d4a73e59bd450800000000000000
+      internalID: 6114645723327593817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_44
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea45228b993f5440800000000000000
+      internalID: 4926719857432808172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_45
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daabb1efffb27aed0800000000000000
+      internalID: -2402903497698985299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_46
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c72d49a3e41c26f0800000000000000
+      internalID: -708168073373472825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_47
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1513ba10567b699f0800000000000000
+      internalID: -461980267311320751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_48
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a057c335ed86830800000000000000
+      internalID: 4064743112779827785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_49
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce87fe8be0f82c10800000000000000
+      internalID: 2029136526636977868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_50
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80dc0e42c3dec6a0800000000000000
+      internalID: -6426966786724540277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_51
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4493f1cbac1eca0800000000000000
+      internalID: -5989283120099539793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_52
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc96e9149b80e4b0800000000000000
+      internalID: -5413173283893371709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 166
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3498b481882ca66b0800000000000000
+      internalID: -5302211721496393405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504a9eed2ffbb31c0800000000000000
+      internalID: -4522810350920686587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_55
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33702db55947da00800000000000000
+      internalID: 781173692966138686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_56
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29ec3e9f28c0e930800000000000000
+      internalID: 4170553361788889387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_57
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750b35c4a1a6c00a0800000000000000
+      internalID: -6914034666738306985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_58
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28cb8b01a3d485c0800000000000000
+      internalID: -4214010662675036116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_59
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3608b85b8a3e1cbf0800000000000000
+      internalID: -305712985944653725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_60
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aabd9e94ebfda10800000000000000
+      internalID: 1936475589457980058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_61
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b231636b2676ca70800000000000000
+      internalID: 8846888446738903731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_62
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a5b4933bfd98440800000000000000
+      internalID: 4938724427241839224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_63
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8190934ed32bb0e20800000000000000
+      internalID: 3317941529380194584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_64
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 158
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ddc6d864382cb80800000000000000
+      internalID: -8375988017912029818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc34021a720e4b00800000000000000
+      internalID: 814591305912171725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_66
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf815e875a043940800000000000000
+      internalID: 5274852434723835835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_67
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d34052ca23d67b70800000000000000
+      internalID: 8896530294519120855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_68
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9a6d246bb3a1250800000000000000
+      internalID: 5916106714496018877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_69
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ea3413ade591a00800000000000000
+      internalID: 727717106019446281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_70
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330d4e0906d0511e0800000000000000
+      internalID: -2227859732265906125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_71
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f291723e22501420800000000000000
+      internalID: 2598667343361053432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4448c109369367850800000000000000
+      internalID: 6374345422371849284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_73
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20c77ce7de4c82e0800000000000000
+      internalID: -2122234635106140113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_74
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22716809a2109f660800000000000000
+      internalID: 7419963143394563874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_75
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f83831288c1211a0800000000000000
+      internalID: -6840373513023899403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_76
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c4441aaa0a16120800000000000000
+      internalID: 2405380330703047691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebb28114733a4500800000000000000
+      internalID: 381173692069231589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_78
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83049e97a0710b100800000000000000
+      internalID: 121622523701444664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_79
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caab65a23a93c2f50800000000000000
+      internalID: 6857919705531202220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_80
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78002a1be771b470800000000000000
+      internalID: 8408633830916753532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_81
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92af7b4f96c75140800000000000000
+      internalID: 4708450322907898525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_82
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f184ac71db5c37bf0800000000000000
+      internalID: -327700931929290721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_83
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777fb74dd2a9c5b60800000000000000
+      internalID: 7736227781544769399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_84
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffb38e37a83772c0800000000000000
+      internalID: -4434013017163448334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_85
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f4557e0fcf87200800000000000000
+      internalID: 178170296884612978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_86
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9770c8d7be075c60800000000000000
+      internalID: 7806724661848340379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_87
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325960e35685b4ea0800000000000000
+      internalID: -5887514896001231581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_88
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c28cd3315b0e4110800000000000000
+      internalID: 1246946590218552008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_89
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4dbab99517fe000800000000000000
+      internalID: 67397149111604426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_90
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11814ef7a89874250800000000000000
+      internalID: 5928858662400694289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_91
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 150
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b118b8482f9b82d90800000000000000
+      internalID: -7122238359429480165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_92
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034eea8644c5f3930800000000000000
+      internalID: 4125117232578487344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_93
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f970e136fb8f450800000000000000
+      internalID: 6122854125836672915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_94
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f18f842d394bc60800000000000000
+      internalID: 7833048183280770894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_95
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0d1576b88f3e300800000000000000
+      internalID: 280340879444660433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_96
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231b5dea050a85c90800000000000000
+      internalID: -7180813337451187918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_97
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423786759f936b3c0800000000000000
+      internalID: -4344221047476161756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_98
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bf982e86ae89b70800000000000000
+      internalID: 8906125999323347830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_99
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a441cf596a1129f0800000000000000
+      internalID: -495085444153654104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_100
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6ed6446fd8132e0800000000000000
+      internalID: -2147779458429491508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_101
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c69c952f94e03580800000000000000
+      internalID: -8849321895601072444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_102
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc082dfbe007ae40800000000000000
+      internalID: 5667499669633633487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4b2e6e2508d6f40800000000000000
+      internalID: 5723371795007059199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_104
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0d68b8cac0c5350800000000000000
+      internalID: 6006689938220175530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_105
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002a9028d4177daa0800000000000000
+      internalID: -6136311389560921600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_106
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb65607684527bd0800000000000000
+      internalID: -2633949895670273062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_107
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2423079aee66faf0800000000000000
+      internalID: -362980766121778134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_108
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808f5315806805760800000000000000
+      internalID: 7444597554323781640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_109
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a85053b7b264f10800000000000000
+      internalID: 2253536471716039288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_110
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f781b86026faed160800000000000000
+      internalID: 7052266902060210303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_111
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be386e10e63a76910800000000000000
+      internalID: 1830611466423010283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_112
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579e8bdc66d1df770800000000000000
+      internalID: 8646099186996537717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_113
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 142
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4e17320ccbb2520800000000000000
+      internalID: 2678441936816301280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_114
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 134
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2cd02267cc47a60800000000000000
+      internalID: 7670980873068331709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_115
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 126
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6443ee5492fa5b0800000000000000
+      internalID: -5355016051594344770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_116
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b205d998c76d908b0800000000000000
+      internalID: -5185377665567338453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_117
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c5c712d45294230800000000000000
+      internalID: 3623468388400782341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_118
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00f2d49e7c6dca20800000000000000
+      internalID: 3084240610737188878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_119
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa34c6c76dcea2a20800000000000000
+      internalID: 3038501304569447343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_120
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8b5ea76717915a0800000000000000
+      internalID: -6550079429351720782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_121
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a74090c39fe73d0800000000000000
+      internalID: -3206851848396572026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_122
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bf643a6a1fcfcc0800000000000000
+      internalID: -3675797497834964213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_123
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982916ace6e9bac60800000000000000
+      internalID: 7830526575792722569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_124
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8301c2910cab0f1e0800000000000000
+      internalID: -2166026086546403272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_125
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbbd756445f41fa0800000000000000
+      internalID: -5830765943428629515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_126
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd99a12bdc9ae91c0800000000000000
+      internalID: -4494968677147698724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_127
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fe7f1d869973bd0800000000000000
+      internalID: -2650481180205912285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_128
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5b7357ee3e3b4c0800000000000000
+      internalID: -4272821008136161821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_129
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15fe569af86e7080800000000000000
+      internalID: -9187790764315314914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_130
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8045c2c7784cae0800000000000000
+      internalID: -1529949006009726757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_131
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc7f0812dc37a080800000000000000
+      internalID: -9176298842699629381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_132
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e63e31604a8b5b0800000000000000
+      internalID: -5352347811119403438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_133
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0795dcf0602100ad0800000000000000
+      internalID: -2738168756197041808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_134
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758e5e774beaa7ed0800000000000000
+      internalID: -2415426160001947561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_135
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975a6c9cca12d4d40800000000000000
+      internalID: 5570145340130502009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_136
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f71c9d503cbade0800000000000000
+      internalID: -1320747635807518932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_137
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845848dc0446f0250800000000000000
+      internalID: 5913055065249449288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_138
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8344f62ba7eee760800000000000000
+      internalID: 7489177952642679695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_139
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dc70ace21045cb0800000000000000
+      internalID: -4876271196065772221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_140
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a44d0391ad32350800000000000000
+      internalID: 5990871731061148163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_141
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b19984c49fe2410800000000000000
+      internalID: 1454373835718073210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_142
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba8095a9b319a560800000000000000
+      internalID: 7325407956962413239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_143
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8176fb574307cc680800000000000000
+      internalID: -8733482206762146024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_144
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e511d5faad22e05b0800000000000000
+      internalID: -5400340580530319010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_145
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6956d4a91f7f6c40800000000000000
+      internalID: 5507760617413826927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_146
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6675453ea7c672980800000000000000
+      internalID: -8563756891365943450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_147
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a95ea49d1391140800000000000000
+      internalID: 4690835296217307675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_148
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1095d685e84528940800000000000000
+      internalID: 5296889082086775041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_149
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29621156b3cf824f0800000000000000
+      internalID: -853154797357816174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_150
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcb29caabc4460f0800000000000000
+      internalID: -1124689642292855594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_151
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53471870ecd442f10800000000000000
+      internalID: 2244004061621875765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_152
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23443bb7da0dea830800000000000000
+      internalID: 4084431355594884146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_153
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31a599a155ef46c0800000000000000
+      internalID: -4156851792139411141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_154
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ab863d28bd46040800000000000000
+      internalID: 4640074871037540937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_155
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c22d811a1beb21f0800000000000000
+      internalID: -1068501989374221624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_156
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a48cfa8c08904b40800000000000000
+      internalID: 5422501130992911529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_157
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0681f9e616ad600800000000000000
+      internalID: 493814236893962442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_158
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c9ab937e790fc10800000000000000
+      internalID: 2085333646834310223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_159
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6df0a79ba798baf0800000000000000
+      internalID: -380387405273694869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_160
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f4f17249a28c0a0800000000000000
+      internalID: -6861187216499060959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_161
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6f4ea7fc4bc0ea0800000000000000
+      internalID: -5905146208176507172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_162
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8fcb31d2943adf0800000000000000
+      internalID: -170211902956439378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_163
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0632a4024144150800000000000000
+      internalID: 5855827544403828936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_164
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e0040011fdf6480800000000000000
+      internalID: -8903652674176545124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_165
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac52d31b54093300800000000000000
+      internalID: 232221645007379628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_166
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a642df9678557d70800000000000000
+      internalID: 9040229093526881955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_167
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290d313dd3c97ab20800000000000000
+      internalID: 3145654654089810066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_168
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501f61c0f0d568920800000000000000
+      internalID: 2992181321642995973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_169
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25501b0f3a0cd2a60800000000000000
+      internalID: 7650983152322676050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_170
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f4d49089e710070800000000000000
+      internalID: 8070871198680829769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_171
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b6cd301fe3ec990800000000000000
+      internalID: -7363879135831364708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_172
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57ccc6dd0569d710800000000000000
+      internalID: 1718515842931279708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_173
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673efbe3d66a06820800000000000000
+      internalID: 2909508347415749494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_174
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663b72abba044dbf0800000000000000
+      internalID: -300544168820231322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_175
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f2c9c24541b3290800000000000000
+      internalID: -7909705968787902689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_176
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd5f48da29ad0950800000000000000
+      internalID: 6416971045555625468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_177
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71454ceb4a116dde0800000000000000
+      internalID: -1308839242431704041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_178
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240333ea8df03d830800000000000000
+      internalID: 4094633909519855682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_179
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9167e305c0ecddfa0800000000000000
+      internalID: -5774232594937907687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_180
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e464b61e94bebd5f0800000000000000
+      internalID: -730731811970529714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_181
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12c3dc42f3e040e0800000000000000
+      internalID: -2287577980893674978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_182
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db9b2ac95bdd8ef0800000000000000
+      internalID: -104186037669225513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_183
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53376b750dd150d50800000000000000
+      internalID: 6702796401072829237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_184
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1334d9dc19c2b5b0800000000000000
+      internalID: -5353995881239268579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_185
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8684af7040f140df0800000000000000
+      internalID: -215012780032767896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_186
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f85abcd52915d70800000000000000
+      internalID: 9030159659400793975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_187
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f870a4762a45bd7a0800000000000000
+      internalID: -6351389792981612657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_188
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11b7568dacd1d0f0800000000000000
+      internalID: -1093850596632973030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_189
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87cbe318f9bbfad0800000000000000
+      internalID: -2667333879149639795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_190
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca121be3476740e0800000000000000
+      internalID: -2285744744462935358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_191
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c8e1e1c142b1520800000000000000
+      internalID: 2673770506957523977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_192
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5013a0a1ff4794140800000000000000
+      internalID: 4704419924767551749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_193
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ea15cc6db7bb690800000000000000
+      internalID: -7585332984894345637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_194
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f8d12ea78300f00800000000000000
+      internalID: 1080926010999672702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_195
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8f5636d4b3170a0800000000000000
+      internalID: -6885657151706629957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_196
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a272ea97093b410d0800000000000000
+      internalID: -3452937581188208854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_197
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e115bdd744c1940800000000000000
+      internalID: 5268160971457764878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_198
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b13a94756c2b750800000000000000
+      internalID: 6319331305354107710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_199
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482ba9a77693e45d0800000000000000
+      internalID: -3076458378846096764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_200
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d121c38e194effe30800000000000000
+      internalID: 4539598264730391069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_201
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b90516ecf449eb80800000000000000
+      internalID: -8365078979881399884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_202
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5101542cb97f33820800000000000000
+      internalID: 2896931233680658453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_203
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0fc0ff3b3ede970800000000000000
+      internalID: 8785928810287394996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_204
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb20da9adc3a896d0800000000000000
+      internalID: -2983454649422642501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_205
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b641d60369812590800000000000000
+      internalID: -7700722829417691467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_206
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8325fb8a2faf553f0800000000000000
+      internalID: -912547429352517064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_207
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45026c2cfc902e550800000000000000
+      internalID: 6188519625891127380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_208
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac06372f5c2522300800000000000000
+      internalID: 225833941451628746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_209
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027e457d042cd1a50800000000000000
+      internalID: 6493559821484484384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_210
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4ea33b1a9794fb0800000000000000
+      internalID: -4663062203761761048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_211
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504f776ae18eac830800000000000000
+      internalID: 4092338429759058949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_212
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99c1c0a0b84b46d0800000000000000
+      internalID: -3005228402891175522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_213
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558198a291b038f70800000000000000
+      internalID: 9188199867481659477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_214
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e956dd591bd07b0800000000000000
+      internalID: -5256349932848832966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_215
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac08ca4595f39ab0800000000000000
+      internalID: -5002384739524932443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_216
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e452404f44394d40800000000000000
+      internalID: 5569039929205478631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_217
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f187cbdabf80d9d0800000000000000
+      internalID: -2751541339609398800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_218
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdef1ffad2be920b0800000000000000
+      internalID: -5752808467531170081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_219
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c29b3a9d44298d00800000000000000
+      internalID: 975350710021100226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_220
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa796ae2ae69d9850800000000000000
+      internalID: 6385425779230414762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_221
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0e3aa1657e17350800000000000000
+      internalID: 6012841334516474080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_222
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8308a9bcc04b22290800000000000000
+      internalID: -7916567227915403208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_223
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d958279ba534fe0800000000000000
+      internalID: -1206020522668352101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_224
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2550be79362b0e50800000000000000
+      internalID: 6776552092689519915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_225
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8915d762d87baba90800000000000000
+      internalID: -7297318429336448616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_226
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc31ae305a023880800000000000000
+      internalID: -8632826195951403843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_227
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f0d3c4f720a4510800000000000000
+      internalID: 1534041368836247339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conteo_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 304
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475adc20203cff570800000000000000
+      internalID: 8502729034903168372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
