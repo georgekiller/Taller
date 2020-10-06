@@ -5,6 +5,7 @@ using UnityEngine;
 public class movimiento : MonoBehaviour
    
 {
+    public double municion;
     public float speed=4f;
     Animator anim;
     Rigidbody2D rb2d;
@@ -35,15 +36,30 @@ public class movimiento : MonoBehaviour
             anim.SetBool("caminando", false);
         }
 
-        if (Input.GetMouseButtonDown(0))
+        if (municion > 0)
         {
-            GameObject bala1 = Instantiate(bala, transform.position, Quaternion.identity);
-            bala1.GetComponent<bala>().target = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            //target.z = 0f;
+            //municiones(municion);
+            if (Input.GetMouseButtonDown(0))
+            {
+                GameObject bala1 = Instantiate(bala, transform.position, Quaternion.identity);
+                bala1.GetComponent<bala>().target = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+                //target.z = 0f;
+                municion--;
+            }
         }
     }
     private void FixedUpdate()
     {
         rb2d.MovePosition(rb2d.position + mov * speed * Time.deltaTime);
     }
+    //public void municiones(double municion)
+    //{
+    //    if (Input.GetMouseButtonDown(0))
+    //    {
+    //        GameObject bala1 = Instantiate(bala, transform.position, Quaternion.identity);
+    //        bala1.GetComponent<bala>().target = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+    //        //target.z = 0f;
+    //        municion--;
+    //    }
+    //}
 }

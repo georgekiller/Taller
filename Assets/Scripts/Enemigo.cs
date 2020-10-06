@@ -8,9 +8,11 @@ public class Enemigo : MonoBehaviour
     public float speed;
     [SerializeField]
     public float DañoE=1f;
+    public double c;
 
     GameObject player;
     Vida playerVida;
+    movimiento movimiento1;
 
     Vector3 initialPosition;
     Animator ene;
@@ -45,7 +47,7 @@ public class Enemigo : MonoBehaviour
         }
         
     }
-    private void OnTriggerEnter2D(Collider2D collision)
+    void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
@@ -53,7 +55,9 @@ public class Enemigo : MonoBehaviour
         }
         if (collision.CompareTag("bala"))
         {
+            player.GetComponent<movimiento>().municion+=5;
             Destroy(gameObject);
+            
         }
     }
 }

@@ -43,5 +43,9 @@ public class bala : MonoBehaviour
         {
             Destroy(gameObject);
         }
+        if (collision.CompareTag("enebala"))
+        {
+            Destroy(gameObject);
+        }
     }
 }

@@ -8,6 +8,7 @@ TagManager:
   - enemigo2
   - enemigo3
   - bala
+  - enebala
   layers:
   - Default
   - TransparentFX
@@ -17,8 +18,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - enemy
+  - player
   - 
   - 
   - 

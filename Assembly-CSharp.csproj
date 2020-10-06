@@ -65,9 +65,13 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Crear.cs" />
     <Compile Include="Assets\Scripts\Enemigo.cs" />
+    <Compile Include="Assets\Scripts\Spawn2.cs" />
+    <Compile Include="Assets\Scripts\Texto.cs" />
     <Compile Include="Assets\Scripts\Vida.cs" />
     <Compile Include="Assets\Scripts\bala.cs" />
     <Compile Include="Assets\Scripts\destruir.cs" />
+    <Compile Include="Assets\Scripts\enemigoatac.cs" />
+    <Compile Include="Assets\Scripts\enemigodisp.cs" />
     <Compile Include="Assets\Scripts\enemispawn.cs" />
     <Compile Include="Assets\Scripts\movimiento.cs" />
     <Compile Include="Assets\Scripts\npc.cs" />
